@@ -1,0 +1,41 @@
+Esse é um código HTML que cria uma lista de contatos com imagens, nomes, e-mails e opções de ação (editar e excluir). Vou explicar cada parte do código:
+
+- <!DOCTYPE html>: Define o tipo de documento como HTML5.
+
+- <html lang="pt-br">: Elemento raiz do documento HTML com o atributo lang definido como "pt-br" para português brasileiro.
+
+- <head>: O elemento head contém metadados e outras informações sobre o documento.
+
+- Meta tags: As linhas com <meta> definem algumas informações úteis para mecanismos de busca e outros processos. O atributo charset="UTF-8" define a codificação do caractere como UTF-8, garantindo o suporte a caracteres especiais. O meta tag viewport controla o dimensionamento da página em dispositivos móveis. A linha com http-equiv="X-UA-Compatible" define a compatibilidade do navegador com o Internet Explorer.
+
+- <title>Lista de contatos</title>: Define o título da página como "Lista de contatos", que será exibido na aba do navegador ou na barra de título da janela.
+
+- <link rel="stylesheet" href="estilo.css" />: Define um link para um arquivo CSS externo chamado "estilo.css", que será utilizado para aplicar estilos à página.
+
+- <body>: O elemento body contém o conteúdo visível da página.
+
+- <h1 class="main-title">Lista de contatos</h1>: Cria um título principal (h1) com a classe "main-title" que exibe o texto "Lista de contatos".
+
+- <div class="list-wrapper">: Cria um contêiner com a classe "list-wrapper" que agrupa a lista de contatos.
+
+- <ul class="list">: Cria uma lista não ordenada (ul) com a classe "list", que será utilizada para exibir os contatos.
+
+- <li class="list-item">: Cria cada item da lista (li) com a classe "list-item", que representa um contato na lista.
+
+- <div class="list-item__imagem">: Cria um contêiner com a classe "list-item__imagem" para exibir a imagem do contato.
+
+- <img src="imagens/1.jpg" alt="Brennan George" />: Insere uma imagem do contato com o atributo "src" apontando para o arquivo "1.jpg" na pasta "imagens". O atributo "alt" fornece uma descrição alternativa para a imagem, que será exibida caso a imagem não seja carregada.
+
+- <div class="list-item__content">: Cria um contêiner com a classe "list-item__content" para exibir o nome e e-mail do contato.
+
+- <p class="list-item__name">Brennan George</p>: Cria um parágrafo (p) com a classe "list-item__name" que exibe o nome do contato ("Brennan George").
+
+- <p class="list-item__email">brennan.george@example.com</p>: Cria outro parágrafo com a classe "list-item__email" que exibe o e-mail do contato ("brennan.george@example.com").
+
+- <div class="list-item__action">: Cria um contêiner com a classe "list-item__action" para exibir as opções de ação para o contato.
+
+- <a href="lista-de-contatos.html"><img src="imagens/delete.png" alt="Delete" /></a>: Cria um link (âncora) com o atributo "href" apontando para o arquivo "lista-de-contatos.html". Dentro do link, é inserida uma imagem de ícone "delete.png" com o atributo "alt" definido como "Delete".
+
+- <a href="lista-de-contatos.html"><img src="imagens/edit.png" alt="Edit" /></a>: Cria outro link com o atributo "href" apontando para o arquivo "lista-de-contatos.html". Dentro do link, é inserida uma imagem de ícone "edit.png" com o atributo "alt" definido como "Edit".
+
+O código utiliza classes para estilizar e agrupar os elementos, e também faz referência a arquivos externos (estilo.css, imagens) para estilização e recursos visuais. A lista de contatos é exibida como uma série de itens (li) com imagens, nomes, e-mails e ícones de ação (editar e excluir). É possível personalizar o estilo da lista utilizando o arquivo estilo.css, que provavelmente contém as definições visuais para as classes utilizadas no HTML.

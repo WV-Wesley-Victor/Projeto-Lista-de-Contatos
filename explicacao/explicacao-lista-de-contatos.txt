@@ -1,0 +1,11 @@
+Esse código HTML é bastante semelhante ao código index.html, mas com algumas diferenças:
+
+- <link rel="stylesheet" href="estilo2.css" />: Nesse código, o arquivo CSS externo utilizado para estilização é chamado "estilo2.css". Isso significa que o estilo da página será controlado pelo arquivo "estilo2.css" em vez de "estilo.css".
+
+- As imagens utilizadas para os contatos também foram alteradas: As imagens para cada contato estão referenciadas com diferentes nomes e extensões (1.jpg, 2.jpg, etc.), representando as fotos dos contatos na lista.
+
+- Os links de ação nos itens da lista foram alterados: Os links de ação (excluir e editar) em cada item da lista agora estão apontando para "index.html" em vez de "lista-de-contatos.html".
+
+- Os nomes e e-mails dos contatos também foram atualizados de acordo com os dados dos contatos representados na lista.
+
+Em geral, a estrutura e o propósito do código permanecem os mesmos: ele cria uma lista de contatos com informações de cada contato (imagem, nome e e-mail) e oferece opções de ação (excluir e editar) para cada um deles. As classes utilizadas nos elementos fornecem uma estrutura para estilizar e organizar os elementos visualmente com o auxílio do arquivo "estilo2.css".
