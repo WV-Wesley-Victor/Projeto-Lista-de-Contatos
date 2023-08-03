@@ -22,6 +22,25 @@ Para usar o projeto, basta clonar o repositório do GitHub e abrir o arquivo ind
 * Estilização CSS: Explore técnicas de estilização CSS para dar vida ao projeto, aplicando cores, tipografia e espaçamento adequados para melhorar a apresentação visual.
 * Interação do Usuário: Adicione interatividade através de efeitos hover e transições, proporcionando uma experiência de usuário mais agradável.
 
+## Fontes de Pesquisa
+criar uma página com uma lista de contatos usando HTML e CSS é uma maneira prática de aprimorar suas habilidades de desenvolvimento web. Aqui estão algumas fontes de pesquisa que podem ajudá-lo a aprender a criar essa página:
+
+* FreeCodeCamp: O FreeCodeCamp oferece tutoriais e guias passo a passo sobre como criar páginas de contato usando HTML e CSS.
+Tutorial: https://www.freecodecamp.org/news/how-to-create-a-contact-form-step-by-step-guide/
+* W3Schools - HTML Lists: A W3Schools tem tutoriais detalhados sobre a criação de listas em HTML, incluindo listas de contatos.
+Tutorial: https://www.w3schools.com/html/html_lists.asp
+* Traversy Media (YouTube): Brad Traversy tem um tutorial em vídeo sobre como criar uma página de lista de contatos responsiva usando HTML e CSS.
+Vídeo Tutorial: https://www.youtube.com/watch?v=g0Aq2kP5-CY
+* Codecademy: A Codecademy oferece cursos de desenvolvimento web que incluem a criação de páginas de contato e formulários usando HTML e CSS.
+Curso: https://www.codecademy.com/learn/paths/full-stack-engineer-career-path
+* GitHub: Procure por repositórios públicos no GitHub que contenham exemplos de páginas de contato ou listas de contatos. Analisar o código de projetos existentes pode ser muito educativo.
+Pesquise por: https://github.com/topics/html-css-contact-page
+* YouTube em geral: Use termos de pesquisa como "HTML CSS contact page tutorial" no YouTube para encontrar diversos tutoriais em vídeo sobre o assunto.
+* Frontend Mentor: Como mencionado anteriormente, o Frontend Mentor oferece desafios de design que podem incluir a criação de páginas de contato ou listas de contatos.
+Site: https://www.frontendmentor.io/challenges
+
+Lembre-se de que, ao criar uma página de lista de contatos, você pode usar HTML para estruturar o conteúdo da página, incluindo listas não ordenadas ou tabelas para exibir os contatos. Além disso, use CSS para estilizar os elementos e criar um design atraente e responsivo. Praticar e experimentar diferentes abordagens ajudará você a aprimorar suas habilidades de desenvolvimento web.
+
 ## Instruções de Instalação (caso aplicável)
 Este projeto é um exemplo funcional disponibilizado online, não requerendo instalação local. Basta acessar o URL fornecido e explorar o projeto.
 
